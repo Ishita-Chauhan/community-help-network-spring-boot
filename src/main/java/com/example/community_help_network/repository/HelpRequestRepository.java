@@ -7,5 +7,6 @@ import org.springframework.data.jpa.repository.JpaRepository;
 
 
 public interface HelpRequestRepository extends JpaRepository<HelpRequest, Long> {
+//yeh method jo identify nhi ho rahi thi usse pass kara dobara
 }
 
