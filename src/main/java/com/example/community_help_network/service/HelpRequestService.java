@@ -15,7 +15,7 @@ public class HelpRequestService {
 
     @Autowired
     private HelpRequestRepository helpRequestRepository;
-
+//Autowire was not able to identify the method
 
     public HelpRequest createHelpRequest(String title, String description) {
 
