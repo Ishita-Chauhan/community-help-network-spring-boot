@@ -39,7 +39,7 @@ public class HelpRequestController {
 
 
 
-/*package com.example.community_help_network.controller;
+/*
 
 
 import com.example.community_help_network.model.HelpRequest;
